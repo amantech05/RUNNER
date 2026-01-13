@@ -1,5 +1,7 @@
 # RUNNER 
 > This is my first game which helped me to learn unity engine and game dev fundamentals and much more about game dev and this game is for pc 
+>
+>Download the `RUNNER.zip` File and extract it to run the game 
 ## Game Keys are:-
 * use `SPACE` button to start the game 
 * use `A` button to move left 
